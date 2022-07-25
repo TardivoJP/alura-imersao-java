@@ -13,6 +13,5 @@ A aplicação funciona em três passos distintos:
 &rarr; 📁 **linguagens-api** &rarr; API com imagens de logos de linguagens de programação.
 
 - API acessível em: https://alura-linguagens-api-jp.herokuapp.com/linguagens
-- **API atualmente fora do ar por motivos de segurança**
 - [MongoDB](https://www.mongodb.com/) utilizado para hostear o banco de dados.
 - [Heroku](https://www.heroku.com/) utilizado para hostear o API.
