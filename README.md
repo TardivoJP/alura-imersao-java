@@ -9,6 +9,7 @@ A aplicação funciona em três passos distintos:
 ### Estrutura do repositório
 
 &rarr; 📁 **alura-stickers** &rarr; Aplicação geradora de figurinhas
+
 &rarr; 📁 **linguagens-api** &rarr; API com imagens de logos de linguagens de programação.
 
 - API acessível em: https://alura-linguagens-api-jp.herokuapp.com/linguagens
